@@ -5,7 +5,7 @@ The project began with a series of informational interviews to understand the op
 
 From this analysis, I defined a scalable site architecture and implemented structured content types for Events, Leadership Messages (Annual President communications), and News & Updates. Each content type was configured with structured metadata—including event dates, locations, message year, and categories—allowing for chronological sorting and clean archival organization. Additionally, categories and tagging systems were carefully configured to ensure clear separation of content types.
 
-This screen capture demonstrates how I organized the header to include information that would attract a multi-generational audience. I created a top-level navigation system that included a Home, About Us, Calender, Membership, and Photo Gallery, Links, and News page. The gallery was showcased various renunions by the group. 
+This screen capture demonstrates how I organized the header to include information that would attract a multi-generational audience. I created a top-level navigation system that included a Home, About Us, Calender, Membership, and Photo Gallery, Links, and News page. The gallery showcased various renunions by the group. 
 
 <img width="500" height="500" alt="Delta_Home" src="https://github.com/user-attachments/assets/c6c1e6b1-ba6e-486e-9e74-bb5a10b071b7" />
 
