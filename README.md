@@ -1,95 +1,31 @@
 # Full-Stack Wordpress_Delta_126
 Delta126.net is the official digital hub for the alumni and friends of Delta 1/26. The primary objective of this project was to design and implement a centralized communication platform that keeps members informed about reunions, milestone events, and annual updates from leadership. 
 
-Based on feedback from thd Delta 1/26 team, I createed a comprehensive website for Marines RVN Association to serve as a centralized communication platform for alumni, leadership updates, and reunion coordination.
+The project began with a series of informational interviews to understand the operational structure of the Delta 1/26 community. Through this discovery process, I identified three core needs: structured reunion scheduling, formalized leadership communication, and a sustainable archival system for long-term preservation.
 
-I completed a comprehensive analysis of Delta 1/26 community through a series of informational interviews. I evaluated the association’s operational needs to define a scalable site structure. This included reunion scheduling, leadership communication, and long-term archival requirements. My first task was to create the following content types:
-
-* **Events** (Reunions, Meetings, Special Gatherings)
-* **Leadership Messages** (Annual President communications)
-* **News & Updates**
-
-Each content type included structured metadata (event dates, locations, message year, categories), enabling chronological display and archival organization. Then, I configured categories and tagging systems to separate leadership updates from event content and general announcements, ensuring scalable growth over time. 
+From this analysis, I defined a scalable site architecture and implemented structured content types for Events, Leadership Messages (Annual President communications), and News & Updates. Each content type was configured with structured metadata—including event dates, locations, message year, and categories—allowing for chronological sorting and clean archival organization. Additionally, categories and tagging systems were carefully configured to ensure clear separation of content types.
 
 This screen capture demonstrates how I organized the header to include information that would attract a multi-generational audience. I created a top-level navigation system that included a Home, About Us, Calender, Membership, and Photo Gallery, Links, and News page. The gallery was showcased various renunions by the group. 
 
 <img width="500" height="500" alt="Delta_Home" src="https://github.com/user-attachments/assets/c6c1e6b1-ba6e-486e-9e74-bb5a10b071b7" />
 
-I also wanted to create a calender for the Delta 1/26 community. The calendar functionality was implemented as a structured, dynamic system rather than a static listing:
+A core functional requirement was the creation of a dynamic event calendar rather than a static event listing. I implemented a structured system that includes custom metadata fields for event date, description, and venue. Events are displayed chronologically, with past events automatically archived to maintain organizational clarity.
 
-* Configured event metadata fields for date, description, and venue.
-* Enabled chronological sorting and automatic archival of past events.
-* Built an administrative workflow allowing board members to publish and edit events independently.
-* Ensured the calendar functioned as an operational tool for reunion planning.
+An administrative workflow was built to allow board members to publish and edit events independently, minimizing long-term technical dependency. The calendar functions as an operational tool for reunion planning and directly supports the association’s primary objective of keeping members informed of upcoming activities. This feature directly supports the association’s primary business objective: keeping members informed of upcoming reunions and activities. 
 
-This feature directly supports the association’s primary business objective: keeping members informed of upcoming reunions and activities. I also created a structured archive for annual President messages:
+I also wanted to strengthen transparency and preserve institutional history. So, I developed a structured archive for annual President messages. Messages are organized by year, formatted for long-form readability, and displayed using consistent templates to preserve visual continuity.
 
-* Year-based organizational structure.
-* Clean, long-form content formatting optimized for readability.
-* Consistent templating to preserve visual continuity across years.
-* Easily maintainable backend interface for annual updates.
+The backend interface was simplified to ensure annual updates can be published without developer assistance. This feature enhances credibility and fosters transparency within the membership community
 
-This screen capture demonstrates how I incorporated the needs of Delta 1/26 by supporting the group's President's message for all to view. This compoent increased credibility and transparency amongst memebrs. 
+This screen capture demonstrates how I addressed the organization’s need for transparency by creating a dedicated section for the President’s message. The page ensures that annual leadership communications are easily accessible to all members and presented in a clear, readable format directly within the site.
 
 <img width="500" height="500" alt="President_Message" src="https://github.com/user-attachments/assets/613fce88-d3a7-40fc-81ee-2cc72504d2a9" />
 
+A key project requirement was minimizing ongoing technical oversight. To achieve this, I simplified the WordPress dashboard experience, reduced unnecessary plugin usage, configured role-based permissions, and designed structured content-entry templates for non-technical administrators. The result is a maintainable system that empowers board members to manage updates independently while preserving structural integrity and performance standards.
 
-
-
-
-This section preserves institutional history while strengthening community continuity.
-
-
-
-
-
-
-
-## Administrative Usability & Sustainability
-
-A key requirement was minimizing technical dependency. To achieve this:
-
-* Simplified the WordPress dashboard experience.
-* Reduced plugin bloat.
-* Configured role-based permissions.
-* Designed content entry templates for non-technical administrators.
-
-This screen capture reflects the simplicity of site as requested by the Delta 1/26 team. The result is a system that remains maintainable without ongoing developer oversight. 
+This screen cpature reflects the easy of use for others to maintain. The page also has a survey that I formatted for users to show interest in attending a Delta 1/26 event in the future. 
 
 <img width="500" height="500" alt="AboutPage" src="https://github.com/user-attachments/assets/ea02fc86-e8ae-401a-bf77-38c3d3dc4d67" />
 
-The site demonstrates strong WordPress theming and front-end customization:
-
-* Theme template modifications for structured layout control.
-* Custom CSS for brand-aligned styling and high-contrast readability.
-* Consistent visual hierarchy across content types.
-* Responsive layout foundation for cross-device accessibility.
-
-
-The project highlights structured data implementation within WordPress:
-
-* Dynamic event listings based on metadata.
-* Automated chronological ordering.
-* Archive logic for historical messages and events.
-* Sidebar widget configuration for recent posts and calendar visibility.
-
-
-The Delta126.net platform now serves as:
-
-* The authoritative calendar for Delta 126 reunions.
-* A permanent archive of annual President communications.
-* A centralized hub for alumni engagement.
-* A sustainable content system for long-term organizational continuity.
-
-The Delta126.net project demonstrates full-lifecycle WordPress development capability — from discovery and content modeling to theme customization and backend workflow optimization.
-
-It validates my ability to:
-
-* Translate organizational requirements into structured CMS architecture.
-* Implement scalable custom content systems.
-* Build intuitive navigation for legacy audiences.
-* Create maintainable platforms that empower non-technical stakeholders.
-* Deliver a cohesive, branded user experience within WordPress.
-
-The architecture reflects how the organization operates in reality, reducing friction for a multi-generational audience.
+This project demonstrates full-lifecycle WordPress development capability—from discovery and content modeling to theme customization and backend workflow optimization. It reflects my ability to translate organizational requirements into structured CMS architecture, implement scalable content systems, design intuitive navigation for legacy audiences, and deliver maintainable platforms that empower non-technical stakeholders.
 
