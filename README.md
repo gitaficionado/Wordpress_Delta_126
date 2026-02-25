@@ -1,11 +1,5 @@
-# Wordpress_Delta_126
+# Full-Stack Wordpress_Delta_126
 Delta126.net is the official digital hub for the alumni and friends of Delta 126. The primary objective of this project was to design and implement a centralized communication platform that keeps members informed about reunions, milestone events, and annual updates from leadership. 
-
-Below is your rewritten version, modeled closely on the structure, depth, and technical tone of the Illumatek example — but tailored specifically to your **Delta126.net WordPress project**.
-
----
-
-# Full-Stack WordPress Development — Delta126.net
 
 Full-stack WordPress development from discovery and planning through implementation and deployment. Built a comprehensive website for Delta Company 1/26 Marines RVN Association to serve as a centralized communication platform for alumni, leadership updates, and reunion coordination.
 
@@ -138,11 +132,5 @@ It validates my ability to:
 * Create maintainable platforms that empower non-technical stakeholders.
 * Deliver a cohesive, branded user experience within WordPress.
 
----
-
-If you would like, I can now create:
-
-* A condensed executive version (1-page recruiter view),
-* A GitHub README technical version,
-* Or a WordPress agency-focused version emphasizing architecture depth and scalability.
+The architecture reflects how the organization operates in reality, reducing friction for a multi-generational audience.
 
