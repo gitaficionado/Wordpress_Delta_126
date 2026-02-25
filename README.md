@@ -1,17 +1,17 @@
 # Full-Stack Wordpress_Delta_126
-Delta126.net is the official digital hub for the alumni and friends of Delta 126. The primary objective of this project was to design and implement a centralized communication platform that keeps members informed about reunions, milestone events, and annual updates from leadership. 
+Delta126.net is the official digital hub for the alumni and friends of Delta 1/26. The primary objective of this project was to design and implement a centralized communication platform that keeps members informed about reunions, milestone events, and annual updates from leadership. 
 
-Based on feedback from thd Delta 1/26 team, I was able to create a comprehensive website for Delta Company 1/26 Marines RVN Association to serve as a centralized communication platform for alumni, leadership updates, and reunion coordination.
+Based on feedback from thd Delta 1/26 team, I createed a comprehensive website for Marines RVN Association to serve as a centralized communication platform for alumni, leadership updates, and reunion coordination.
 
-I completed a comprehensive analysis of Delta 1/26 community with informational interviews and organizational analysis. I evaluated the association’s operational needs to define a scalable site structure. This included reunion scheduling, leadership communication, and long-term archival requirements. My first task was to create types for:
+I completed a comprehensive analysis of Delta 1/26 community through a series of informational interviews. I evaluated the association’s operational needs to define a scalable site structure. This included reunion scheduling, leadership communication, and long-term archival requirements. My first task was to create the following content types:
 
 * **Events** (Reunions, Meetings, Special Gatherings)
 * **Leadership Messages** (Annual President communications)
 * **News & Updates**
 
-Each content type included structured metadata (event dates, locations, message year, categories), enabling chronological display and archival organization. Then, I configured categories and tagging systems to separate leadership updates from event content and general announcements, ensuring scalable growth over time.
+Each content type included structured metadata (event dates, locations, message year, categories), enabling chronological display and archival organization. Then, I configured categories and tagging systems to separate leadership updates from event content and general announcements, ensuring scalable growth over time. 
 
-This screen capture demonstrates how I organized the header to include information that would attract a multi-generational audience.
+This screen capture demonstrates how I organized the header to include information that would attract a multi-generational audience. I created a top-level navigation system that included a Home, About Us, Calender, Membership, and Photo Gallery, Links, and News page. The gallery was showcased various renunions by the group. 
 
 <img width="500" height="500" alt="Delta_Home" src="https://github.com/user-attachments/assets/c6c1e6b1-ba6e-486e-9e74-bb5a10b071b7" />
 
@@ -42,25 +42,6 @@ This section preserves institutional history while strengthening community conti
 
 
 
-
-Implemented a clear top-level navigation system:
-
-* Home
-* About Us
-* Calendar
-* Membership
-* Photo Gallery
-* Links
-* News
-
-
-
-
-
-* Structured photo gallery integration for reunion imagery.
-* Optimized images for performance without sacrificing clarity.
-* Ensured consistent layout styling across posts and pages.
-* Applied brand-aligned color schemes reflecting Marine Corps identity.
 
 
 
