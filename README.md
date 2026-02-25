@@ -1,5 +1,5 @@
 # Full-Stack Wordpress_Delta_126
-Delta126.net is the official digital hub for the alumni and friends of Delta 1/26. The primary objective of this project was to design and implement a centralized communication platform that keeps members informed about reunions, milestone events, and annual updates from leadership. 
+Delta126.net is the official digital hub for the alumni and friends of Delta 1/26. The primary objective of this project was to design and implement a centralized communication platform that keeps members informed about reunions, milestone events, and annual updates from leadership.
 
 The project began with a series of informational interviews to understand the operational structure of the Delta 1/26 community. Through this discovery process, I identified three core needs: structured reunion scheduling, formalized leadership communication, and a sustainable archival system for long-term preservation.
 
