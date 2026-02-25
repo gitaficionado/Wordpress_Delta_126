@@ -3,12 +3,9 @@ Delta126.net is the official digital hub for the alumni and friends of Delta 126
 
 Full-stack WordPress development from discovery and planning through implementation and deployment. Built a comprehensive website for Delta Company 1/26 Marines RVN Association to serve as a centralized communication platform for alumni, leadership updates, and reunion coordination.
 
-My work began with stakeholder discussions and organizational analysis. I evaluated the association’s operational needs — including reunion scheduling, leadership communication, and long-term archival requirements — to define a scalable site structure. This resulted in the successful deployment of key features, including:
+My work began with stakeholder discussions and organizational analysis. I evaluated the association’s operational needs to define a scalable site structure. This included reunion scheduling, leadership communication, and long-term archival requirements. This resulted in the successful deployment of key features, including:
 
 
-## Custom Content Architecture
-
-**Custom Post Types:**
 Structured dedicated content types for:
 
 * **Events** (Reunions, Meetings, Special Gatherings)
@@ -16,6 +13,12 @@ Structured dedicated content types for:
 * **News & Updates**
 
 Each content type included structured metadata (event dates, locations, message year, categories), enabling chronological display and archival organization.
+
+
+
+
+
+
 
 **Taxonomy Management:**
 Configured categories and tagging systems to separate leadership updates from event content and general announcements, ensuring scalable growth over time.
@@ -35,17 +38,7 @@ The calendar functionality was implemented as a structured, dynamic system rathe
 * Built an administrative workflow allowing board members to publish and edit events independently.
 * Ensured the calendar functioned as an operational tool for reunion planning.
 
-This feature directly supports the association’s primary business objective: keeping members informed of upcoming reunions and activities.
-
-
-
-
-
-
-
-## Leadership Communication Hub
-
-Created a structured archive for annual President messages:
+This feature directly supports the association’s primary business objective: keeping members informed of upcoming reunions and activities. I also created a structured archive for annual President messages:
 
 * Year-based organizational structure.
 * Clean, long-form content formatting optimized for readability.
@@ -70,6 +63,7 @@ Implemented a clear top-level navigation system:
 
 The architecture reflects how the organization operates in reality, reducing friction for a multi-generational audience.
 
+<img width="500" height="500" alt="Delta_Home" src="https://github.com/user-attachments/assets/c6c1e6b1-ba6e-486e-9e74-bb5a10b071b7" />
 
 
 ## Media Management & Content Presentation
