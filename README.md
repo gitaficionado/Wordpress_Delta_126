@@ -13,9 +13,7 @@ A core functional requirement was the creation of a dynamic event calendar rathe
 
 An administrative workflow was built to allow board members to publish and edit events independently, minimizing long-term technical dependency. The calendar functions as an operational tool for reunion planning and directly supports the association’s primary objective of keeping members informed of upcoming activities. This feature directly supports the association’s primary business objective: keeping members informed of upcoming reunions and activities. 
 
-I also wanted to strengthen transparency and preserve institutional history. So, I developed a structured archive for annual President messages. Messages are organized by year, formatted for long-form readability, and displayed using consistent templates to preserve visual continuity.
-
-The backend interface was simplified to ensure annual updates can be published without developer assistance. This feature enhances credibility and fosters transparency within the membership community
+I also wanted to strengthen transparency and preserve institutional history. So, I developed a structured archive for annual President messages. Messages are organized by year, formatted for long-form readability, and displayed using consistent templates to preserve visual continuity. The backend interface was simplified to ensure annual updates can be published without developer assistance. This feature enhances credibility and fosters transparency within the membership community
 
 This screen capture demonstrates how I addressed the organization’s need for transparency by creating a dedicated section for the President’s message. The page ensures that annual leadership communications are easily accessible to all members and presented in a clear, readable format directly within the site.
 
