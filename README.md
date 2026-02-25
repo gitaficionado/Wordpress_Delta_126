@@ -1,78 +1,148 @@
 # Wordpress_Delta_126
 Delta126.net is the official digital hub for the alumni and friends of Delta 126. The primary objective of this project was to design and implement a centralized communication platform that keeps members informed about reunions, milestone events, and annual updates from leadership. 
 
-## Delta126.net — Recruiter-Focused Summary
-
-**Role:** WordPress Developer
-**Project Type:** Organizational / Alumni Association Website
-**Objective:** Build a sustainable, easy-to-manage communication platform for Delta Company 1/26 Marines RVN Association.
-
-### Overview
-
-Delta126.net was designed and developed as a centralized hub for alumni engagement. The primary goals were to create:
-
-* A structured **Events Calendar** to manage reunions and association gatherings
-* A dedicated archive for **annual President messages and leadership updates**
-* A platform that non-technical board members could update independently
-
-This project required balancing usability for an older demographic with maintainable WordPress architecture.
+Below is your rewritten version, modeled closely on the structure, depth, and technical tone of the Illumatek example — but tailored specifically to your **Delta126.net WordPress project**.
 
 ---
 
-## Technical Contributions
+# Full-Stack WordPress Development — Delta126.net
 
-**WordPress Development**
+Full-stack WordPress development from discovery and planning through implementation and deployment. Built a comprehensive website for Delta Company 1/26 Marines RVN Association to serve as a centralized communication platform for alumni, leadership updates, and reunion coordination.
 
-* Customized theme templates to align with organizational branding
-* Implemented structured navigation and consistent page hierarchy
-* Optimized layout for readability and accessibility
+My work began with stakeholder discussions and organizational analysis. I evaluated the association’s operational needs — including reunion scheduling, leadership communication, and long-term archival requirements — to define a scalable site structure. This resulted in the successful deployment of key features, including:
 
-**Content Architecture**
+---
 
-* Developed Custom Post Types for Events and Leadership Updates
-* Structured taxonomies to support year-based archival retrieval
-* Designed scalable content models for long-term growth
+## Custom Content Architecture
 
-**Event Management System**
+**Custom Post Types:**
+Structured dedicated content types for:
 
-* Configured and customized calendar functionality
-* Structured event metadata (date, location, description)
-* Enabled chronological display and automatic archiving of past events
+* **Events** (Reunions, Meetings, Special Gatherings)
+* **Leadership Messages** (Annual President communications)
+* **News & Updates**
 
-**Administrative Optimization**
+Each content type included structured metadata (event dates, locations, message year, categories), enabling chronological display and archival organization.
 
-* Simplified backend workflows for non-technical users
-* Reduced plugin bloat and improved dashboard clarity
-* Implemented role-based content management controls
+**Taxonomy Management:**
+Configured categories and tagging systems to separate leadership updates from event content and general announcements, ensuring scalable growth over time.
 
-**Performance & Stability**
+---
 
-* Applied image optimization techniques
-* Maintained clean theme structure for faster load times
-* Followed WordPress security best practices
+## Calendar & Event Management Integration
+
+The calendar functionality was implemented as a structured, dynamic system rather than a static listing:
+
+* Configured event metadata fields for date, description, and venue.
+* Enabled chronological sorting and automatic archival of past events.
+* Built an administrative workflow allowing board members to publish and edit events independently.
+* Ensured the calendar functioned as an operational tool for reunion planning.
+
+This feature directly supports the association’s primary business objective: keeping members informed of upcoming reunions and activities.
+
+---
+
+## Leadership Communication Hub
+
+Created a structured archive for annual President messages:
+
+* Year-based organizational structure.
+* Clean, long-form content formatting optimized for readability.
+* Consistent templating to preserve visual continuity across years.
+* Easily maintainable backend interface for annual updates.
+
+This section preserves institutional history while strengthening community continuity.
+
+---
+
+## Information Architecture & Navigation
+
+Implemented a clear top-level navigation system:
+
+* Home
+* About Us
+* Calendar
+* Membership
+* Photo Gallery
+* Links
+* News
+
+The architecture reflects how the organization operates in reality, reducing friction for a multi-generational audience.
+
+---
+
+## Media Management & Content Presentation
+
+* Structured photo gallery integration for reunion imagery.
+* Optimized images for performance without sacrificing clarity.
+* Ensured consistent layout styling across posts and pages.
+* Applied brand-aligned color schemes reflecting Marine Corps identity.
+
+---
+
+## Administrative Usability & Sustainability
+
+A key requirement was minimizing technical dependency. To achieve this:
+
+* Simplified the WordPress dashboard experience.
+* Reduced plugin bloat.
+* Configured role-based permissions.
+* Designed content entry templates for non-technical administrators.
+
+The result is a system that remains maintainable without ongoing developer oversight.
+
+---
+
+## Theming & Front-End Customization
+
+The site demonstrates strong WordPress theming and front-end customization:
+
+* Theme template modifications for structured layout control.
+* Custom CSS for brand-aligned styling and high-contrast readability.
+* Consistent visual hierarchy across content types.
+* Responsive layout foundation for cross-device accessibility.
+
+---
+
+## Data-Driven Functionality
+
+The project highlights structured data implementation within WordPress:
+
+* Dynamic event listings based on metadata.
+* Automated chronological ordering.
+* Archive logic for historical messages and events.
+* Sidebar widget configuration for recent posts and calendar visibility.
 
 ---
 
 ## Business Impact
 
-* Centralized communication for multi-generational membership
-* Increased visibility of reunion events and updates
-* Preserved institutional history through structured leadership archives
-* Reduced dependency on external developers for routine updates
+The Delta126.net platform now serves as:
+
+* The authoritative calendar for Delta 126 reunions.
+* A permanent archive of annual President communications.
+* A centralized hub for alumni engagement.
+* A sustainable content system for long-term organizational continuity.
 
 ---
 
-## Skills Demonstrated
+## Summary
 
-* WordPress theme customization
-* Custom Post Types & Taxonomies
-* Plugin configuration and evaluation
-* UX design for legacy audiences
-* Information architecture
-* Content strategy implementation
-* Front-end CSS customization
-* Long-term maintainability planning
+The Delta126.net project demonstrates full-lifecycle WordPress development capability — from discovery and content modeling to theme customization and backend workflow optimization.
+
+It validates my ability to:
+
+* Translate organizational requirements into structured CMS architecture.
+* Implement scalable custom content systems.
+* Build intuitive navigation for legacy audiences.
+* Create maintainable platforms that empower non-technical stakeholders.
+* Deliver a cohesive, branded user experience within WordPress.
 
 ---
 
-This project demonstrates my ability to translate stakeholder needs into scalable WordPress solutions that are both technically sound and operationally sustainable.
+If you would like, I can now create:
+
+* A condensed executive version (1-page recruiter view),
+* A GitHub README technical version,
+* Or a WordPress agency-focused version emphasizing architecture depth and scalability.
+
