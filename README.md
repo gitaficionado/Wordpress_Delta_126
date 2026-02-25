@@ -1,9 +1,9 @@
 # Full-Stack Wordpress_Delta_126
 Delta126.net is the official digital hub for the alumni and friends of Delta 126. The primary objective of this project was to design and implement a centralized communication platform that keeps members informed about reunions, milestone events, and annual updates from leadership. 
 
-Full-stack WordPress development from discovery and planning through implementation and deployment. Built a comprehensive website for Delta Company 1/26 Marines RVN Association to serve as a centralized communication platform for alumni, leadership updates, and reunion coordination.
+Based on feedback from thd Delta 1/26 team, I was able to create a comprehensive website for Delta Company 1/26 Marines RVN Association to serve as a centralized communication platform for alumni, leadership updates, and reunion coordination.
 
-My work began with stakeholder discussions and organizational analysis. I evaluated the association’s operational needs to define a scalable site structure. This included reunion scheduling, leadership communication, and long-term archival requirements. My first task was to create types for:
+I completed a comprehensive analysis of Delta 1/26 community with informational interviews and organizational analysis. I evaluated the association’s operational needs to define a scalable site structure. This included reunion scheduling, leadership communication, and long-term archival requirements. My first task was to create types for:
 
 * **Events** (Reunions, Meetings, Special Gatherings)
 * **Leadership Messages** (Annual President communications)
@@ -14,10 +14,6 @@ Each content type included structured metadata (event dates, locations, message 
 This screen capture demonstrates how I organized the header to include information that would attract a multi-generational audience.
 
 <img width="500" height="500" alt="Delta_Home" src="https://github.com/user-attachments/assets/c6c1e6b1-ba6e-486e-9e74-bb5a10b071b7" />
-
-
-
-
 
 I also wanted to create a calender for the Delta 1/26 community. The calendar functionality was implemented as a structured, dynamic system rather than a static listing:
 
@@ -33,11 +29,19 @@ This feature directly supports the association’s primary business objective: k
 * Consistent templating to preserve visual continuity across years.
 * Easily maintainable backend interface for annual updates.
 
+This screen capture demonstrates how I incorporated the needs of Delta 1/26 by supporting the group's President's message for all to view. This compoent increased credibility and transparency amongst memebrs. 
+
+<img width="500" height="500" alt="President_Message" src="https://github.com/user-attachments/assets/613fce88-d3a7-40fc-81ee-2cc72504d2a9" />
+
+
+
+
+
 This section preserves institutional history while strengthening community continuity.
 
 
 
-## Information Architecture & Navigation
+
 
 Implemented a clear top-level navigation system:
 
@@ -52,7 +56,6 @@ Implemented a clear top-level navigation system:
 
 
 
-## Media Management & Content Presentation
 
 * Structured photo gallery integration for reunion imagery.
 * Optimized images for performance without sacrificing clarity.
