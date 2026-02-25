@@ -3,35 +3,23 @@ Delta126.net is the official digital hub for the alumni and friends of Delta 126
 
 Full-stack WordPress development from discovery and planning through implementation and deployment. Built a comprehensive website for Delta Company 1/26 Marines RVN Association to serve as a centralized communication platform for alumni, leadership updates, and reunion coordination.
 
-My work began with stakeholder discussions and organizational analysis. I evaluated the association’s operational needs to define a scalable site structure. This included reunion scheduling, leadership communication, and long-term archival requirements. This resulted in the successful deployment of key features, including:
-
-
-Structured dedicated content types for:
+My work began with stakeholder discussions and organizational analysis. I evaluated the association’s operational needs to define a scalable site structure. This included reunion scheduling, leadership communication, and long-term archival requirements. My first task was to create types for:
 
 * **Events** (Reunions, Meetings, Special Gatherings)
 * **Leadership Messages** (Annual President communications)
 * **News & Updates**
 
-Each content type included structured metadata (event dates, locations, message year, categories), enabling chronological display and archival organization.
+Each content type included structured metadata (event dates, locations, message year, categories), enabling chronological display and archival organization. Then, I configured categories and tagging systems to separate leadership updates from event content and general announcements, ensuring scalable growth over time.
+
+This screen capture demonstrates how I organized the header to include information that would attract a multi-generational audience.
+
+<img width="500" height="500" alt="Delta_Home" src="https://github.com/user-attachments/assets/c6c1e6b1-ba6e-486e-9e74-bb5a10b071b7" />
 
 
 
 
 
-
-
-**Taxonomy Management:**
-Configured categories and tagging systems to separate leadership updates from event content and general announcements, ensuring scalable growth over time.
-
-
-
-
-
-
-
-## Calendar & Event Management Integration
-
-The calendar functionality was implemented as a structured, dynamic system rather than a static listing:
+I also wanted to create a calender for the Delta 1/26 community. The calendar functionality was implemented as a structured, dynamic system rather than a static listing:
 
 * Configured event metadata fields for date, description, and venue.
 * Enabled chronological sorting and automatic archival of past events.
@@ -47,7 +35,7 @@ This feature directly supports the association’s primary business objective: k
 
 This section preserves institutional history while strengthening community continuity.
 
-<img width="500" height="500" alt="President_Message" src="https://github.com/user-attachments/assets/c5a66b5f-67c2-44a8-849e-f64808da518b" />
+
 
 ## Information Architecture & Navigation
 
@@ -61,9 +49,7 @@ Implemented a clear top-level navigation system:
 * Links
 * News
 
-The architecture reflects how the organization operates in reality, reducing friction for a multi-generational audience.
 
-<img width="500" height="500" alt="Delta_Home" src="https://github.com/user-attachments/assets/c6c1e6b1-ba6e-486e-9e74-bb5a10b071b7" />
 
 
 ## Media Management & Content Presentation
@@ -84,11 +70,9 @@ A key requirement was minimizing technical dependency. To achieve this:
 * Configured role-based permissions.
 * Designed content entry templates for non-technical administrators.
 
-The result is a system that remains maintainable without ongoing developer oversight.
+This screen capture reflects the simplicity of site as requested by the Delta 1/26 team. The result is a system that remains maintainable without ongoing developer oversight. 
 
-
-
-## Theming & Front-End Customization
+<img width="500" height="500" alt="AboutPage" src="https://github.com/user-attachments/assets/ea02fc86-e8ae-401a-bf77-38c3d3dc4d67" />
 
 The site demonstrates strong WordPress theming and front-end customization:
 
@@ -97,7 +81,6 @@ The site demonstrates strong WordPress theming and front-end customization:
 * Consistent visual hierarchy across content types.
 * Responsive layout foundation for cross-device accessibility.
 
-## Data-Driven Functionality
 
 The project highlights structured data implementation within WordPress:
 
@@ -106,7 +89,6 @@ The project highlights structured data implementation within WordPress:
 * Archive logic for historical messages and events.
 * Sidebar widget configuration for recent posts and calendar visibility.
 
-## Business Impact
 
 The Delta126.net platform now serves as:
 
