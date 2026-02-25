@@ -5,7 +5,6 @@ Full-stack WordPress development from discovery and planning through implementat
 
 My work began with stakeholder discussions and organizational analysis. I evaluated the association’s operational needs — including reunion scheduling, leadership communication, and long-term archival requirements — to define a scalable site structure. This resulted in the successful deployment of key features, including:
 
----
 
 ## Custom Content Architecture
 
@@ -21,7 +20,11 @@ Each content type included structured metadata (event dates, locations, message 
 **Taxonomy Management:**
 Configured categories and tagging systems to separate leadership updates from event content and general announcements, ensuring scalable growth over time.
 
----
+
+
+
+
+
 
 ## Calendar & Event Management Integration
 
@@ -34,7 +37,11 @@ The calendar functionality was implemented as a structured, dynamic system rathe
 
 This feature directly supports the association’s primary business objective: keeping members informed of upcoming reunions and activities.
 
----
+
+
+
+
+
 
 ## Leadership Communication Hub
 
@@ -47,7 +54,7 @@ Created a structured archive for annual President messages:
 
 This section preserves institutional history while strengthening community continuity.
 
----
+<img width="500" height="500" alt="President_Message" src="https://github.com/user-attachments/assets/c5a66b5f-67c2-44a8-849e-f64808da518b" />
 
 ## Information Architecture & Navigation
 
@@ -63,7 +70,7 @@ Implemented a clear top-level navigation system:
 
 The architecture reflects how the organization operates in reality, reducing friction for a multi-generational audience.
 
----
+
 
 ## Media Management & Content Presentation
 
@@ -72,7 +79,7 @@ The architecture reflects how the organization operates in reality, reducing fri
 * Ensured consistent layout styling across posts and pages.
 * Applied brand-aligned color schemes reflecting Marine Corps identity.
 
----
+
 
 ## Administrative Usability & Sustainability
 
@@ -85,7 +92,7 @@ A key requirement was minimizing technical dependency. To achieve this:
 
 The result is a system that remains maintainable without ongoing developer oversight.
 
----
+
 
 ## Theming & Front-End Customization
 
@@ -96,8 +103,6 @@ The site demonstrates strong WordPress theming and front-end customization:
 * Consistent visual hierarchy across content types.
 * Responsive layout foundation for cross-device accessibility.
 
----
-
 ## Data-Driven Functionality
 
 The project highlights structured data implementation within WordPress:
@@ -107,8 +112,6 @@ The project highlights structured data implementation within WordPress:
 * Archive logic for historical messages and events.
 * Sidebar widget configuration for recent posts and calendar visibility.
 
----
-
 ## Business Impact
 
 The Delta126.net platform now serves as:
@@ -117,10 +120,6 @@ The Delta126.net platform now serves as:
 * A permanent archive of annual President communications.
 * A centralized hub for alumni engagement.
 * A sustainable content system for long-term organizational continuity.
-
----
-
-## Summary
 
 The Delta126.net project demonstrates full-lifecycle WordPress development capability — from discovery and content modeling to theme customization and backend workflow optimization.
 
